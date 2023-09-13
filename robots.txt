@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://garasiabi.github.io/sitemapx.xml
